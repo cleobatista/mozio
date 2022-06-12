@@ -1,0 +1,34 @@
+version: '3'
+
+services:
+
+  db_mozio:
+    container_name: postgresql_db_mozio
+    build:
+      context: .
+      dockerfile: Dockerfile-db
+
+    restart: always
+    ports:
+      - 5432:5432
+    volumes:
+      - ./postgres:/data/postgres
+    env_file: .environment
+
+  app:
+    image: python:3.10
+    command: ./app/.entrypoint.sh
+    env_file: .environment
+
+    volumes:
+      - .:/app/
+    depends_on:
+      - db_mozio
+    ports:
+      - 8000:8000
+    restart: always
+
+volumes:
+  postgres:
+  pgadmin:
+  app:
