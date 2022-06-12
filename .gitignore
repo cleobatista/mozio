@@ -1,0 +1,7 @@
+.environment
+.env/
+.venv/
+*.pyc
+*.sqlite3
+.idea
+settings_dev.py
