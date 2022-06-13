@@ -1,0 +1,482 @@
+[
+    {
+        "model": "api.servicearea",
+        "pk": 1,
+        "fields": {
+            "name": "test_service1",
+            "provider": 1,
+            "price": 1.0,
+            "area": "SRID=4326;POLYGON ((3.0 4.0, 3.0 3.0, 4.0 3.0, 4.0 4.0, 3.0 4.0))"
+        }
+    },
+    {
+        "model": "api.servicearea",
+        "pk": 2,
+        "fields": {
+            "name": "test_service2",
+            "provider": 2,
+            "price": 2.0,
+            "area": "SRID=4326;POLYGON ((4.0 5.0, 4.0 4.0, 5.0 4.0, 5.0 5.0, 4.0 5.0))"
+        }
+    },
+    {
+        "model": "api.servicearea",
+        "pk": 3,
+        "fields": {
+            "name": "test_service3",
+            "provider": 3,
+            "price": 3.0,
+            "area": "SRID=4326;POLYGON ((5.0 6.0, 5.0 5.0, 6.0 5.0, 6.0 6.0, 5.0 6.0))"
+        }
+    },
+    {
+        "model": "api.servicearea",
+        "pk": 4,
+        "fields": {
+            "name": "test_service4",
+            "provider": 4,
+            "price": 4.0,
+            "area": "SRID=4326;POLYGON ((6.0 7.0, 6.0 6.0, 7.0 6.0, 7.0 7.0, 6.0 7.0))"
+        }
+    },
+    {
+        "model": "api.servicearea",
+        "pk": 5,
+        "fields": {
+            "name": "test_service5",
+            "provider": 5,
+            "price": 5.0,
+            "area": "SRID=4326;POLYGON ((7.0 8.0, 7.0 7.0, 8.0 7.0, 8.0 8.0, 7.0 8.0))"
+        }
+    },
+    {
+        "model": "api.servicearea",
+        "pk": 6,
+        "fields": {
+            "name": "test_service6",
+            "provider": 6,
+            "price": 6.0,
+            "area": "SRID=4326;POLYGON ((8.0 9.0, 8.0 8.0, 9.0 8.0, 9.0 9.0, 8.0 9.0))"
+        }
+    },
+    {
+        "model": "api.servicearea",
+        "pk": 7,
+        "fields": {
+            "name": "test_service7",
+            "provider": 7,
+            "price": 7.0,
+            "area": "SRID=4326;POLYGON ((9.0 10.0, 9.0 9.0, 10.0 9.0, 10.0 10.0, 9.0 10.0))"
+        }
+    },
+    {
+        "model": "api.servicearea",
+        "pk": 8,
+        "fields": {
+            "name": "test_service8",
+            "provider": 8,
+            "price": 8.0,
+            "area": "SRID=4326;POLYGON ((10.0 11.0, 10.0 10.0, 11.0 10.0, 11.0 11.0, 10.0 11.0))"
+        }
+    },
+    {
+        "model": "api.servicearea",
+        "pk": 9,
+        "fields": {
+            "name": "test_service9",
+            "provider": 9,
+            "price": 9.0,
+            "area": "SRID=4326;POLYGON ((11.0 12.0, 11.0 11.0, 12.0 11.0, 12.0 12.0, 11.0 12.0))"
+        }
+    },
+    {
+        "model": "api.servicearea",
+        "pk": 10,
+        "fields": {
+            "name": "test_service10",
+            "provider": 10,
+            "price": 10.0,
+            "area": "SRID=4326;POLYGON ((12.0 13.0, 12.0 12.0, 13.0 12.0, 13.0 13.0, 12.0 13.0))"
+        }
+    },
+    {
+        "model": "api.servicearea",
+        "pk": 11,
+        "fields": {
+            "name": "test_service11",
+            "provider": 11,
+            "price": 11.0,
+            "area": "SRID=4326;POLYGON ((13.0 14.0, 13.0 13.0, 14.0 13.0, 14.0 14.0, 13.0 14.0))"
+        }
+    },
+    {
+        "model": "api.servicearea",
+        "pk": 12,
+        "fields": {
+            "name": "test_service12",
+            "provider": 12,
+            "price": 12.0,
+            "area": "SRID=4326;POLYGON ((14.0 15.0, 14.0 14.0, 15.0 14.0, 15.0 15.0, 14.0 15.0))"
+        }
+    },
+    {
+        "model": "api.servicearea",
+        "pk": 13,
+        "fields": {
+            "name": "test_service13",
+            "provider": 13,
+            "price": 13.0,
+            "area": "SRID=4326;POLYGON ((15.0 16.0, 15.0 15.0, 16.0 15.0, 16.0 16.0, 15.0 16.0))"
+        }
+    },
+    {
+        "model": "api.servicearea",
+        "pk": 14,
+        "fields": {
+            "name": "test_service14",
+            "provider": 14,
+            "price": 14.0,
+            "area": "SRID=4326;POLYGON ((16.0 17.0, 16.0 16.0, 17.0 16.0, 17.0 17.0, 16.0 17.0))"
+        }
+    },
+    {
+        "model": "api.servicearea",
+        "pk": 15,
+        "fields": {
+            "name": "test_service15",
+            "provider": 15,
+            "price": 15.0,
+            "area": "SRID=4326;POLYGON ((17.0 18.0, 17.0 17.0, 18.0 17.0, 18.0 18.0, 17.0 18.0))"
+        }
+    },
+    {
+        "model": "api.servicearea",
+        "pk": 16,
+        "fields": {
+            "name": "test_service16",
+            "provider": 16,
+            "price": 16.0,
+            "area": "SRID=4326;POLYGON ((18.0 19.0, 18.0 18.0, 19.0 18.0, 19.0 19.0, 18.0 19.0))"
+        }
+    },
+    {
+        "model": "api.servicearea",
+        "pk": 17,
+        "fields": {
+            "name": "test_service17",
+            "provider": 17,
+            "price": 17.0,
+            "area": "SRID=4326;POLYGON ((19.0 20.0, 19.0 19.0, 20.0 19.0, 20.0 20.0, 19.0 20.0))"
+        }
+    },
+    {
+        "model": "api.servicearea",
+        "pk": 18,
+        "fields": {
+            "name": "test_service18",
+            "provider": 18,
+            "price": 18.0,
+            "area": "SRID=4326;POLYGON ((20.0 21.0, 20.0 20.0, 21.0 20.0, 21.0 21.0, 20.0 21.0))"
+        }
+    },
+    {
+        "model": "api.servicearea",
+        "pk": 19,
+        "fields": {
+            "name": "test_service19",
+            "provider": 19,
+            "price": 19.0,
+            "area": "SRID=4326;POLYGON ((21.0 22.0, 21.0 21.0, 22.0 21.0, 22.0 22.0, 21.0 22.0))"
+        }
+    },
+    {
+        "model": "api.servicearea",
+        "pk": 20,
+        "fields": {
+            "name": "test_service20",
+            "provider": 20,
+            "price": 20.0,
+            "area": "SRID=4326;POLYGON ((22.0 23.0, 22.0 22.0, 23.0 22.0, 23.0 23.0, 22.0 23.0))"
+        }
+    },
+    {
+        "model": "api.servicearea",
+        "pk": 21,
+        "fields": {
+            "name": "test_service21",
+            "provider": 21,
+            "price": 21.0,
+            "area": "SRID=4326;POLYGON ((23.0 24.0, 23.0 23.0, 24.0 23.0, 24.0 24.0, 23.0 24.0))"
+        }
+    },
+    {
+        "model": "api.servicearea",
+        "pk": 22,
+        "fields": {
+            "name": "test_service22",
+            "provider": 22,
+            "price": 22.0,
+            "area": "SRID=4326;POLYGON ((24.0 25.0, 24.0 24.0, 25.0 24.0, 25.0 25.0, 24.0 25.0))"
+        }
+    },
+    {
+        "model": "api.servicearea",
+        "pk": 23,
+        "fields": {
+            "name": "test_service23",
+            "provider": 23,
+            "price": 23.0,
+            "area": "SRID=4326;POLYGON ((25.0 26.0, 25.0 25.0, 26.0 25.0, 26.0 26.0, 25.0 26.0))"
+        }
+    },
+    {
+        "model": "api.servicearea",
+        "pk": 24,
+        "fields": {
+            "name": "test_service24",
+            "provider": 24,
+            "price": 24.0,
+            "area": "SRID=4326;POLYGON ((26.0 27.0, 26.0 26.0, 27.0 26.0, 27.0 27.0, 26.0 27.0))"
+        }
+    },
+    {
+        "model": "api.servicearea",
+        "pk": 25,
+        "fields": {
+            "name": "test_service25",
+            "provider": 25,
+            "price": 25.0,
+            "area": "SRID=4326;POLYGON ((27.0 28.0, 27.0 27.0, 28.0 27.0, 28.0 28.0, 27.0 28.0))"
+        }
+    },
+    {
+        "model": "api.servicearea",
+        "pk": 26,
+        "fields": {
+            "name": "test_service26",
+            "provider": 26,
+            "price": 26.0,
+            "area": "SRID=4326;POLYGON ((28.0 29.0, 28.0 28.0, 29.0 28.0, 29.0 29.0, 28.0 29.0))"
+        }
+    },
+    {
+        "model": "api.servicearea",
+        "pk": 27,
+        "fields": {
+            "name": "test_service27",
+            "provider": 27,
+            "price": 27.0,
+            "area": "SRID=4326;POLYGON ((29.0 30.0, 29.0 29.0, 30.0 29.0, 30.0 30.0, 29.0 30.0))"
+        }
+    },
+    {
+        "model": "api.servicearea",
+        "pk": 28,
+        "fields": {
+            "name": "test_service28",
+            "provider": 28,
+            "price": 28.0,
+            "area": "SRID=4326;POLYGON ((30.0 31.0, 30.0 30.0, 31.0 30.0, 31.0 31.0, 30.0 31.0))"
+        }
+    },
+    {
+        "model": "api.servicearea",
+        "pk": 29,
+        "fields": {
+            "name": "test_service29",
+            "provider": 29,
+            "price": 29.0,
+            "area": "SRID=4326;POLYGON ((31.0 32.0, 31.0 31.0, 32.0 31.0, 32.0 32.0, 31.0 32.0))"
+        }
+    },
+    {
+        "model": "api.servicearea",
+        "pk": 30,
+        "fields": {
+            "name": "test_service30",
+            "provider": 30,
+            "price": 30.0,
+            "area": "SRID=4326;POLYGON ((32.0 33.0, 32.0 32.0, 33.0 32.0, 33.0 33.0, 32.0 33.0))"
+        }
+    },
+    {
+        "model": "api.servicearea",
+        "pk": 31,
+        "fields": {
+            "name": "test_service31",
+            "provider": 31,
+            "price": 31.0,
+            "area": "SRID=4326;POLYGON ((33.0 34.0, 33.0 33.0, 34.0 33.0, 34.0 34.0, 33.0 34.0))"
+        }
+    },
+    {
+        "model": "api.servicearea",
+        "pk": 32,
+        "fields": {
+            "name": "test_service32",
+            "provider": 32,
+            "price": 32.0,
+            "area": "SRID=4326;POLYGON ((34.0 35.0, 34.0 34.0, 35.0 34.0, 35.0 35.0, 34.0 35.0))"
+        }
+    },
+    {
+        "model": "api.servicearea",
+        "pk": 33,
+        "fields": {
+            "name": "test_service33",
+            "provider": 33,
+            "price": 33.0,
+            "area": "SRID=4326;POLYGON ((35.0 36.0, 35.0 35.0, 36.0 35.0, 36.0 36.0, 35.0 36.0))"
+        }
+    },
+    {
+        "model": "api.servicearea",
+        "pk": 34,
+        "fields": {
+            "name": "test_service34",
+            "provider": 34,
+            "price": 34.0,
+            "area": "SRID=4326;POLYGON ((36.0 37.0, 36.0 36.0, 37.0 36.0, 37.0 37.0, 36.0 37.0))"
+        }
+    },
+    {
+        "model": "api.servicearea",
+        "pk": 35,
+        "fields": {
+            "name": "test_service35",
+            "provider": 35,
+            "price": 35.0,
+            "area": "SRID=4326;POLYGON ((37.0 38.0, 37.0 37.0, 38.0 37.0, 38.0 38.0, 37.0 38.0))"
+        }
+    },
+    {
+        "model": "api.servicearea",
+        "pk": 36,
+        "fields": {
+            "name": "test_service36",
+            "provider": 36,
+            "price": 36.0,
+            "area": "SRID=4326;POLYGON ((38.0 39.0, 38.0 38.0, 39.0 38.0, 39.0 39.0, 38.0 39.0))"
+        }
+    },
+    {
+        "model": "api.servicearea",
+        "pk": 37,
+        "fields": {
+            "name": "test_service37",
+            "provider": 37,
+            "price": 37.0,
+            "area": "SRID=4326;POLYGON ((39.0 40.0, 39.0 39.0, 40.0 39.0, 40.0 40.0, 39.0 40.0))"
+        }
+    },
+    {
+        "model": "api.servicearea",
+        "pk": 38,
+        "fields": {
+            "name": "test_service38",
+            "provider": 38,
+            "price": 38.0,
+            "area": "SRID=4326;POLYGON ((40.0 41.0, 40.0 40.0, 41.0 40.0, 41.0 41.0, 40.0 41.0))"
+        }
+    },
+    {
+        "model": "api.servicearea",
+        "pk": 39,
+        "fields": {
+            "name": "test_service39",
+            "provider": 39,
+            "price": 39.0,
+            "area": "SRID=4326;POLYGON ((41.0 42.0, 41.0 41.0, 42.0 41.0, 42.0 42.0, 41.0 42.0))"
+        }
+    },
+    {
+        "model": "api.servicearea",
+        "pk": 40,
+        "fields": {
+            "name": "test_service40",
+            "provider": 40,
+            "price": 40.0,
+            "area": "SRID=4326;POLYGON ((42.0 43.0, 42.0 42.0, 43.0 42.0, 43.0 43.0, 42.0 43.0))"
+        }
+    },
+    {
+        "model": "api.servicearea",
+        "pk": 41,
+        "fields": {
+            "name": "test_service41",
+            "provider": 41,
+            "price": 41.0,
+            "area": "SRID=4326;POLYGON ((43.0 44.0, 43.0 43.0, 44.0 43.0, 44.0 44.0, 43.0 44.0))"
+        }
+    },
+    {
+        "model": "api.servicearea",
+        "pk": 42,
+        "fields": {
+            "name": "test_service42",
+            "provider": 42,
+            "price": 42.0,
+            "area": "SRID=4326;POLYGON ((44.0 45.0, 44.0 44.0, 45.0 44.0, 45.0 45.0, 44.0 45.0))"
+        }
+    },
+    {
+        "model": "api.servicearea",
+        "pk": 43,
+        "fields": {
+            "name": "test_service43",
+            "provider": 43,
+            "price": 43.0,
+            "area": "SRID=4326;POLYGON ((45.0 46.0, 45.0 45.0, 46.0 45.0, 46.0 46.0, 45.0 46.0))"
+        }
+    },
+    {
+        "model": "api.servicearea",
+        "pk": 44,
+        "fields": {
+            "name": "test_service44",
+            "provider": 44,
+            "price": 44.0,
+            "area": "SRID=4326;POLYGON ((46.0 47.0, 46.0 46.0, 47.0 46.0, 47.0 47.0, 46.0 47.0))"
+        }
+    },
+    {
+        "model": "api.servicearea",
+        "pk": 45,
+        "fields": {
+            "name": "test_service45",
+            "provider": 45,
+            "price": 45.0,
+            "area": "SRID=4326;POLYGON ((47.0 48.0, 47.0 47.0, 48.0 47.0, 48.0 48.0, 47.0 48.0))"
+        }
+    },
+    {
+        "model": "api.servicearea",
+        "pk": 46,
+        "fields": {
+            "name": "test_service46",
+            "provider": 46,
+            "price": 46.0,
+            "area": "SRID=4326;POLYGON ((48.0 49.0, 48.0 48.0, 49.0 48.0, 49.0 49.0, 48.0 49.0))"
+        }
+    },
+    {
+        "model": "api.servicearea",
+        "pk": 47,
+        "fields": {
+            "name": "test_service47",
+            "provider": 47,
+            "price": 47.0,
+            "area": "SRID=4326;POLYGON ((49.0 50.0, 49.0 49.0, 50.0 49.0, 50.0 50.0, 49.0 50.0))"
+        }
+    },
+    {
+        "model": "api.servicearea",
+        "pk": 48,
+        "fields": {
+            "name": "test_service48",
+            "provider": 48,
+            "price": 48.0,
+            "area": "SRID=4326;POLYGON ((50.0 51.0, 50.0 50.0, 51.0 50.0, 51.0 51.0, 50.0 51.0))"
+        }
+    }
+]
