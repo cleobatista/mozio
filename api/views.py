@@ -13,6 +13,7 @@ class ProviderViewSet(viewsets.ModelViewSet):
     model = Provider
     serializer_class = ProviderSerializer
     queryset = Provider.objects.all()
+    ordering = ["id"]
 
 
 class ServiceAreaViewSet(viewsets.ModelViewSet):
@@ -22,6 +23,7 @@ class ServiceAreaViewSet(viewsets.ModelViewSet):
     filterset_class = ServiceAreaFilter
     serializer_class = ServiceAreaSerializer
     queryset = ServiceArea.objects.all()
+    ordering = ["id"]
 
     def create(self, request, *args, **kwargs):
         try:
