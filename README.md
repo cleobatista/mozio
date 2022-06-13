@@ -69,6 +69,6 @@ request GET /api/service_area/?coordinates=21.1,21.1
 
 ```
 
-See an example [demo here](https://mozio-test-api.herokuapp.com/)
+See an example [demo here](https://mozio-test-api.herokuapp.com/api/provider/)
 
 See an [Swagger documentation here](https://mozio-test-api.herokuapp.com/swagger/)
